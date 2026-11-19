@@ -89,4 +89,10 @@ Why:
 
 **Real output:**
 
-**Was I right?**
+
+```
+1
+5
+```
+
+**Was I right?** Yes, the output matched my prediction.
